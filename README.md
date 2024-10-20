@@ -64,10 +64,6 @@ src="https://img.shields.io/twitch/status/baiano_de_moraes?logo=twitchsx&style=f
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeonardoDevBa/LeonardoDevBa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <p align="center"></p>
