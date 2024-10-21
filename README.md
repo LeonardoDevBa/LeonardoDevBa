@@ -10,7 +10,7 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 ---
 
 ### 📫 Contato
-* 🌍 Estou baseado no Brasil
+* 🌍 Brasil
 * ✉️ [leozinnjr8@gmail.com](mailto:leozinnjr8@gmail.com)
 * ⚡ Sou o maior gamer de todos os tempos!
 
