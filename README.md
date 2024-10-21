@@ -55,6 +55,42 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 
 ---
 
+### 📚 Tecnologias em Aprendizado
+* React
+* Node.js
+* Docker
+* APIs REST
+
+---
+
+### 💼 Experiência
+* Estágio na [Nome da Empresa] como [Cargo] - [Duração]
+
+---
+
+### 🎓 Certificações
+* Certificação em Python - [Instituição]
+* Certificação em Desenvolvimento Web - [Instituição]
+
+---
+
+### 🌟 Hobbies
+* Jogar vídeo game
+* Ler livros de ficção científica
+* Explorar novas tecnologias
+
+---
+
+### 🌈 Metas Finais
+Meu objetivo é me tornar um especialista em desenvolvimento full stack e contribuir para projetos que tenham um impacto positivo na sociedade.
+
+---
+
+### 💬 Filosofia
+"A programação é como a arte: é preciso praticar e ser criativo para criar algo belo."
+
+---
+
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDevBa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="200" alt="stats graph" />
@@ -65,9 +101,9 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 ---
 
 ### 🚀 Projetos em Destaque
-* [Nome do Projeto 1](link-do-projeto-1): Breve descrição do que o projeto faz.
-* [Nome do Projeto 2](link-do-projeto-2): Breve descrição do que o projeto faz.
-* [Nome do Projeto 3](link-do-projeto-3): Breve descrição do que o projeto faz.
+* [Nome do Projeto 1](link-do-projeto-1): Uma aplicação web que permite aos usuários [breve descrição].
+* [Nome do Projeto 2](link-do-projeto-2): Um sistema que ajuda a [breve descrição].
+* [Nome do Projeto 3](link-do-projeto-3): Uma ferramenta desenvolvida para [breve descrição].
 
 ---
 
