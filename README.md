@@ -69,7 +69,7 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 ---
 
 ### 🎓 Certificações
-* Certificação em Python - [Curso em Video]
+* Certificação em Python - Curso em Video
 
 ---
 
