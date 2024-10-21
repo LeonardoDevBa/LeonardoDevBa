@@ -64,13 +64,12 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 ---
 
 ### 💼 Experiência
-* Estágio na [Nome da Empresa] como [Cargo] - [Duração]
+* 
 
 ---
 
 ### 🎓 Certificações
-* Certificação em Python - [Instituição]
-* Certificação em Desenvolvimento Web - [Instituição]
+* Certificação em Python - [Curso em Video]
 
 ---
 
