@@ -8,14 +8,6 @@
 Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo da programação. Meu objetivo é me tornar um desenvolvedor full stack, adquirindo uma vasta gama de conhecimentos para me aprimorar constantemente naquilo que sempre amei.
 
 ---
-
-### 📫 Contato
-* 🌍 Brasil
-* ✉️ [leozinnjr8@gmail.com](mailto:leozinnjr8@gmail.com)
-* ⚡ Sou o maior gamer de todos os tempos!
-
----
-
 ### 🔧 Skills 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -55,16 +47,18 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 
 ---
 
+### 📫 Contato
+* 🌍 Brasil
+* ✉️ [leozinnjr8@gmail.com](mailto:leozinnjr8@gmail.com)
+* ⚡ Sou o maior gamer de todos os tempos!
+
+---
+
 ### 📚 Tecnologias em Aprendizado
 * React
 * Node.js
 * Docker
 * APIs REST
-
----
-
-### 💼 Experiência
-* 
 
 ---
 
@@ -102,7 +96,6 @@ Meu objetivo é me tornar um especialista em desenvolvimento full stack e contri
 ### 🚀 Projetos em Destaque
 * [Nome do Projeto 1](link-do-projeto-1): Uma aplicação web que permite aos usuários [breve descrição].
 * [Nome do Projeto 2](link-do-projeto-2): Um sistema que ajuda a [breve descrição].
-* [Nome do Projeto 3](link-do-projeto-3): Uma ferramenta desenvolvida para [breve descrição].
 
 ---
 
