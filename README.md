@@ -1,4 +1,4 @@
-#  Olá, eu sou o Leonardo Britto! 
+# Olá, eu sou o Leonardo Britto! 
 ![Leonardo Britto](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
@@ -8,6 +8,7 @@
 Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo da programação. Meu objetivo é me tornar um desenvolvedor full stack, adquirindo uma vasta gama de conhecimentos para me aprimorar constantemente naquilo que sempre amei.
 
 ---
+
 ### 🔧 Skills 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -47,18 +48,17 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 
 ---
 
+### 📚 Tecnologias em Aprendizado
+* **Frontend:** React
+* **Backend:** Node.js, APIs REST
+* **Containers:** Docker
+
+---
+
 ### 📫 Contato
 * 🌍 Brasil
 * ✉️ [leozinnjr8@gmail.com](mailto:leozinnjr8@gmail.com)
 * ⚡ Sou o maior gamer de todos os tempos!
-
----
-
-### 📚 Tecnologias em Aprendizado
-* React
-* Node.js
-* Docker
-* APIs REST
 
 ---
 
@@ -74,28 +74,23 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 
 ---
 
-### 🌈 Metas Finais
-Meu objetivo é me tornar um especialista em desenvolvimento full stack e contribuir para projetos que tenham um impacto positivo na sociedade.
-
----
-
 ### 💬 Filosofia
-"A programação é como a arte: é preciso praticar e ser criativo para criar algo belo."
+"A programação é como a arte: é preciso praticar e ser criativo para criar algo belo. Além disso, acredito que a colaboração e o compartilhamento de conhecimento são essenciais para o crescimento contínuo na carreira de desenvolvedor."
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDevBa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="200" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=LeonardoDevBa&locale=pt-br&mode=weekly&theme=default&hide_border=true&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDevBa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDevBa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="200" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=LeonardoDevBa&theme=default&locale=pt-br&mode=weekly&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDevBa&langs_count=6&layout=compact&theme=default&hide_border=false&card_width=320" height="150" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🚀 Projetos em Destaque
-* [Nome do Projeto 1](link-do-projeto-1): Uma aplicação web que permite aos usuários [breve descrição].
-* [Nome do Projeto 2](link-do-projeto-2): Um sistema que ajuda a [breve descrição].
+* [Nome do Projeto 1](link-do-projeto-1): Uma aplicação web que permite aos usuários gerenciar tarefas de forma intuitiva.
+* [Nome do Projeto 2](link-do-projeto-2): Um sistema de blog com suporte a markdown, onde usuários podem criar, editar e excluir posts.
 
 ---
 
@@ -104,5 +99,3 @@ Meu objetivo é me tornar um especialista em desenvolvimento full stack e contri
 * [Twitch](https://www.twitch.tv/baiano_de_moraes)
 * [Instagram](https://www.instagram.com/britt0.dev/)
 * [LinkedIn](link-do-linkedin)
-
----
