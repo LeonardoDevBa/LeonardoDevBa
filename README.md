@@ -83,8 +83,6 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 <div align="center">
     
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDevBa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="200" alt="GitHub Stats"/>
-    
-  <img src="https://streak-stats.demolab.com?user=LeonardoDevBa&theme=default&locale=pt-br&mode=weekly&hide_border=true" height="180" alt="GitHub Streak"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDevBa&langs_count=6&layout=compact&theme=default&hide_border=false&card_width=320" height="150" alt="Top Languages"/>
 </div>
