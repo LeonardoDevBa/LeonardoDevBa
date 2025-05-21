@@ -93,6 +93,5 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 
 ### 🔗 Minhas Redes Sociais
 * [GitHub](https://github.com/LeonardoDevBa)
-* [Twitch](https://www.twitch.tv/baiano_de_moraes)
+* [Twitch](https://www.twitch.tv/ybaianoo)
 * [Instagram](https://www.instagram.com/britt0.dev/)
-* [LinkedIn](link-do-linkedin)
