@@ -86,8 +86,7 @@ Estou cursando Desenvolvimento de Sistemas e começando minha jornada no mundo d
 ---
 
 ### 🚀 Projetos em Destaque
-* [Nome do Projeto 1](link-do-projeto-1): Uma aplicação web que permite aos usuários gerenciar tarefas de forma intuitiva.
-* [Nome do Projeto 2](link-do-projeto-2): Um sistema de blog com suporte a markdown, onde usuários podem criar, editar e excluir posts.
+* [Concentra ](https://leonardodevba.github.io/projetoConcentra/): Uma aplicação para auxiliar no aprendizado de crianças com TDAH.
 
 ---
 
